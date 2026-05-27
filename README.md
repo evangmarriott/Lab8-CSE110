@@ -4,7 +4,7 @@
 - Evan Marriott
 
 ## Deployed GitHub Pages URL
-https://evanmarriott.github.io/Lab8-CSE110/
+https://evangmarriott.github.io/Lab8-CSE110/
 
 ## Graceful Degradation and Service Workers
 
